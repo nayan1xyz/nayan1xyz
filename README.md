@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/nayan-vishwakarma-086286187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nayan Vishwakarma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nayan-vishwakarma-086286187/" target="blank"><img align="center" src="https://github.com/nayan1xyz/nayan1xyz/blob/main/linked.png" alt="Nayan Vishwakarma" height="30" width="40" /></a>
 </p>
 
 ***

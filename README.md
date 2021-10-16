@@ -7,7 +7,7 @@
 
 - 🔭  Geeks for Geeks [View Profile](https://auth.geeksforgeeks.org/user/nayanvishwakarma/practice/)
 
-- 🌱  Exploring in the world of  **Open Contribution**
+- 🌱  Exploring the world of  **Open Contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayan1xyz](https://github.com/nayan1xyz)
 

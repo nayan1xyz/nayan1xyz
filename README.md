@@ -2,7 +2,8 @@
 <h3 align="center">Always enthusiastic to explore new things</h3>
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nayan1xyz&show_icons=true&locale=en" alt="Nayan Vishwakarma" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nayan1xyz&show_icons=true&locale=en" alt="Nayan Vishwakarma" />
+</p>
 
 
 - 🔭  Geeks for Geeks [View Profile](https://auth.geeksforgeeks.org/user/nayanvishwakarma/practice/)

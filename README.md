@@ -19,7 +19,7 @@
 <p>&nbsp;
 <img aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan1xyz&layout=compact"></img>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="center">
   <b>GitHub Visitors</b>
   <br>
@@ -27,7 +27,7 @@
   <img alt="Page counter" src="https://profile-counter.glitch.me/nayan1xyz/count.svg">
 </p>
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="">
 
 <a href="https://www.linkedin.com/in/nayan-vishwakarma-086286187/" target="blank"><img align="" src="https://github.com/nayan1xyz/nayan1xyz/blob/main/linked-removebg-preview.png" alt="Nayan Vishwakarma" height="40" width="40" /></a>
